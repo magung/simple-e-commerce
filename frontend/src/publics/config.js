@@ -1,0 +1,1 @@
+export const URL = 'https://e-commerce-inventory.herokuapp.com'
